@@ -10,3 +10,7 @@ You can directly use all the extensions directly into your iOS projects, since t
 Most of the extensions are compatible with iOS projects only, altought some *can* be used also in other Apple plaforms as well (watchOS, macOS, tvOS), since they are language centered and platform independent.
 
 Enjoy and be productive!
+
+# License
+
+SwiftExtensions is released under the GNU GPLv3 license. [See LICENSE](https://github.com/andreaGalasso/SwiftExtensions/blob/master/LICENSE) for more information.
